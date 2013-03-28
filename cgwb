@@ -1,6 +1,6 @@
 [minibuild]
 # get subversion into the path
-dependencies=git-1.7 subversion-1.6 python-2.7 py-libxml2-2.7 py-libxslt-1.1 libxml2-2.7 libxslt-1.1 pil-1.1.7 zlib-1.2 freetype-2 libpng-1 openssl-1
+dependencies=git-1.7 subversion-1.7 python-2.7 py-libxml2-2.7 py-libxslt-1.1 libxml2-2.7 libxslt-1.1 pil-1.1.7 zlib-1.2 freetype-2 libpng-1 openssl-1
 install_method=buildout
 src_uri=http://github.com/collective/collective.generic.webbuilder.git
 src_type=git
